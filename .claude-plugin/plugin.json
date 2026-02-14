@@ -1,0 +1,22 @@
+{
+  "name": "prd-creator",
+  "version": "0.1.0",
+  "description": "Creates Product Requirements Documents (PRD) through interactive conversation. Guides users through Epic/Feature/Story structure with progressive disclosure.",
+  "author": {
+    "name": "idnotbe",
+    "url": "https://github.com/idnotbe"
+  },
+  "skills": [
+    "./.claude/skills/prd-creator"
+  ],
+  "homepage": "https://github.com/idnotbe/prd-creator",
+  "repository": "https://github.com/idnotbe/prd-creator",
+  "license": "MIT",
+  "keywords": [
+    "prd",
+    "product-requirements",
+    "planning",
+    "documentation",
+    "user-stories"
+  ]
+}

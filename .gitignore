@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment
+.env
+.envrc
+
+# Generated PRD output (user-specific)
+docs/requirements/
+
+# Temp files
+*.tmp
+*.bak
