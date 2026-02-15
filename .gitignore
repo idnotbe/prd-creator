@@ -12,6 +12,7 @@ Thumbs.db
 # Environment
 .env
 .envrc
+.env.*
 
 # Generated PRD output (user-specific)
 docs/requirements/
@@ -19,3 +20,13 @@ docs/requirements/
 # Temp files
 *.tmp
 *.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.mcp.json
+
+# Windows reserved filename artifact
+nul
