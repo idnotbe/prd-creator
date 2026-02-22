@@ -89,9 +89,9 @@ Or naturally:
 
 This is a pure-markdown plugin with no executable code. Traditional unit/integration tests do not apply.
 
-Structural validation (plugin.json integrity, file reference checks, step completeness) should be used instead. See [TEST-PLAN.md](TEST-PLAN.md) for the full validation roadmap and [CLAUDE.md](CLAUDE.md) for contributor guidance.
+Structural validation (plugin.json integrity, file reference checks, step completeness) should be used instead. See [test-plan.md](action-plans/test-plan.md) for the full validation roadmap and [CLAUDE.md](CLAUDE.md) for contributor guidance.
 
-**Known issue**: The README documents /prd-creator as the invocation command, but SKILL.md uses name: creating-prds. See TEST-PLAN.md P1 for the fix plan.
+**Known issue**: The README documents /prd-creator as the invocation command, but SKILL.md uses name: creating-prds. See action-plans/test-plan.md P1 for the fix plan.
 
 ## License
 
